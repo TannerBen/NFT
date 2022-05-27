@@ -1,7 +1,7 @@
 const contractAddress = "0xc15E065708bE71eC0b0af29D8C4CC37385A88909"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Wild Tomorrow NFT Project!!";
+const welcome_h1 = "Welcome to the Wild Tomorrow Friends NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'An NFT project supporting the Wild Tomorrow Fund';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
