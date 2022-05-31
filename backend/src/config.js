@@ -60,7 +60,7 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'Wild Tomorrow Friends';
+const CONTRACT_NAME = 'Wild Tomorrow Friends ';
 const CONTRACT_SYMBOL = 'WTF';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x8A7B67e0366d1f96A23B6c70D78b5Da27FF3343e';
