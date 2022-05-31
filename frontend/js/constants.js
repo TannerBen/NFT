@@ -1,5 +1,5 @@
-const contractAddress = "0x018D3a28eC0a92776fb3231AE2C2ED03265666bA"; //Replace with your own contract address
-const chain = 'polygon'; // rinkeby or polygon
+const contractAddress = "0x1D52D5598C5CD7122dc762CEA0098497ED6FB1dD"; //Replace with your own contract address
+const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Wild Tomorrow Friends NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
